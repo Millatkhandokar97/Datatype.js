@@ -7,7 +7,7 @@ console.log(floatnum);
 let hex = 0xff
 console.log(hex);//Hexadecimal Numbers
 
-let oct = 0435 //Octal Numbers
+let oct = '0435' //Octal Numbers
 console.log(oct);
 
 let inFinity = 1/0
